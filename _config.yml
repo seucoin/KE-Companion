@@ -1,3 +1,4 @@
+theme: jekyll-theme-primer
 # theme: jekyll-theme-cayman
 # theme: jekyll-theme-tactile
 # theme: jekyll-theme-architect
@@ -6,7 +7,7 @@
 # theme: jekyll-theme-dinky
 # theme: jekyll-theme-hacker
 # theme: jekyll-theme-Leap day
-theme: jekyll-theme-Time-machine
+# theme: jekyll-theme-Time-machine
 # theme: jekyll-theme-tactile
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-modernist
